@@ -17,6 +17,6 @@ Type, at the command line, `python seq_check.py -h` for details of each argument
 
 `python seq_check.py -s ../fruit_fly/fruitfly_77_rna_sortedAligned.out.sam -f     ../fruit_fly/GCA_002310775.1_ASM231077v1_genomic.fa -sum true -o sam_test`
 
-Where '-sum true' means that a summary file only is produced
+Where `-sum true` means that a summary file only is produced
 
 `-v` would be used instead to specify a VCF file, where `-s` specifies a SAM file.
