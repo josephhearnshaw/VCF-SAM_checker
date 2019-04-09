@@ -1,5 +1,3 @@
-###Contact josephhearnshaw@googlemail.com for bugs
-#### install PyVCF, pysam, numpy, and argparse with pip ####
 import sys
 import vcf
 import os
