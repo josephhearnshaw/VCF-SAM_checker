@@ -6,7 +6,7 @@ Total stats are produced at the end of the output file.
 
 ## PRE-REQUIREMENTS
 
-- Python 2+
+- Python 2.7+
 - PyVCF, pysam, numpy, and argparse.
 
 You can install the required modules by using pip, e.g. `pip install pysam`.
