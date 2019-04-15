@@ -1,4 +1,4 @@
-#### install PyVCF, pysam, numpy, and argparse with pip ####
+#### install pyfaidx, PyVCF, pysam, numpy, and argparse with pip ####
 import sys
 import vcf
 import os
