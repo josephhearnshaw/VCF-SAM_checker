@@ -1,3 +1,5 @@
+This script is in dire need of updating and is slow due to obvious inefficiencies; a by-product of a then student only just learning Python after a week! I don't recommend you using this until I've the time to fix said issues. However, it'll none the less work to check the accuracy of your VCF file reference base changes agaisnt new Fasta files (following alignment) and perform the same for SAM sequences.
+
 This short script will check a _VCF_ files ref bases agaisnt the raw _FASTA_ file, to see if the bases match up. 
 It will also check _SAM_ file sequences agaisnt the raw _FASTA_ file and provide a sequence identity percentage.
 It will do this based upon the position of the sequences/bases. 
